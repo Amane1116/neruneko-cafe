@@ -699,7 +699,7 @@ input:checked + .scene .dayimg {
     transform: scaleY(-1) rotate(-90deg);
 
     display: block;
-    background-image: url(images/gnav_bg.svg);
+    background-image: url(../images/gnav_bg.svg);
     background-position: left top;
     background-repeat: no-repeat;
     background-size: 100%;
@@ -791,7 +791,7 @@ input:checked + .scene .dayimg {
           about 
      \* ------------------------- */
 .about-specials{
-    background-image: url("images/milkyway_about_specials.jpg");
+    background-image: url("../images/milkyway_about_specials.jpg");
     
     background-position: center;
     background-size: cover;
@@ -834,7 +834,7 @@ input:checked + .scene .dayimg {
 .reservation {
     color: #ffffff;
     height: 610px;
-    background-image: url("images/home_reservation.png");
+    background-image: url("../images/home_reservation.png");
     background-attachment: fixed;
     background-position: center;
     background-size: 100%;
